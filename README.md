@@ -1,2 +1,2 @@
 # hello-world
-This is the example repository. 
+Hi everyone. This is Duffy here.
